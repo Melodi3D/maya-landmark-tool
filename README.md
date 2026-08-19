@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/landmark_icon.png" width="250" alt="Velix Logo">
+  <img src="images/landmarkicon.png" width="250" alt="Velix Logo">
 </p>
 
 # Maya Landmark Tool
