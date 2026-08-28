@@ -1,7 +1,5 @@
-"""
-Landmark Tool by Melodi
-"""
-
+```Landmark Tool by Melodi```
+""" Copyright 2026 """
 import maya.cmds as cmds
 import maya.mel as mel
 from maya import OpenMayaUI as omui
